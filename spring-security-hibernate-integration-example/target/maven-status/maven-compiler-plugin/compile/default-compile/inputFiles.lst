@@ -1,0 +1,11 @@
+/Users/danieljusdadobenito/Downloads/spring-security-hibernate-integration-example/src/main/java/com/boraji/tutorial/spring/config/MvcWebApplicationInitializer.java
+/Users/danieljusdadobenito/Downloads/spring-security-hibernate-integration-example/src/main/java/com/boraji/tutorial/spring/config/SecurityWebApplicationInitializer.java
+/Users/danieljusdadobenito/Downloads/spring-security-hibernate-integration-example/src/main/java/com/boraji/tutorial/spring/config/WebConfig.java
+/Users/danieljusdadobenito/Downloads/spring-security-hibernate-integration-example/src/main/java/com/boraji/tutorial/spring/config/WebSecurityConfig.java
+/Users/danieljusdadobenito/Downloads/spring-security-hibernate-integration-example/src/main/java/com/boraji/tutorial/spring/model/Authorities.java
+/Users/danieljusdadobenito/Downloads/spring-security-hibernate-integration-example/src/main/java/com/boraji/tutorial/spring/config/AppConfig.java
+/Users/danieljusdadobenito/Downloads/spring-security-hibernate-integration-example/src/main/java/com/boraji/tutorial/spring/model/User.java
+/Users/danieljusdadobenito/Downloads/spring-security-hibernate-integration-example/src/main/java/com/boraji/tutorial/spring/dao/UserDetailsDaoImp.java
+/Users/danieljusdadobenito/Downloads/spring-security-hibernate-integration-example/src/main/java/com/boraji/tutorial/spring/controller/MyContoller.java
+/Users/danieljusdadobenito/Downloads/spring-security-hibernate-integration-example/src/main/java/com/boraji/tutorial/spring/service/UserDetailsServiceImp.java
+/Users/danieljusdadobenito/Downloads/spring-security-hibernate-integration-example/src/main/java/com/boraji/tutorial/spring/dao/UserDetailsDao.java
